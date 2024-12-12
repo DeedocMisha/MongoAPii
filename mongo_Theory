@@ -1,0 +1,8 @@
+npm init
+https://www.youtube.com/watch?v=HCNu_GhESmU&list=PLNkWIWHIRwMFJ-3-gI7GC5JDg1ivbIKNR&index=15
+npm i express mongodb --save
+npm i nodemon --save-dev АВТОМАТИЧ ОБНОВЛЕИЕ СЕРВЕРА
+
+
+Mongoose
+
